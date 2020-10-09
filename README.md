@@ -2,8 +2,8 @@
 
 Demonstration of C++ program that connects to an Oracle SQL database to:
 
-1) Returns an employee's information.
-2) Displays all employees.
-3) Adds an employee.
-4) Updates an employee.
-5) Removes an employee.
+1) Return an employee's information.
+2) Display all employees.
+3) Add an employee.
+4) Update an employee.
+5) Remove an employee.
